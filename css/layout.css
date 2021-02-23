@@ -26,17 +26,19 @@ footer
 
 .footer-logo
 {
-   position: center;
-   padding: 0%;
-   height: 30%;
+    position: center;
+    padding: 0%;
+    height: 30%;
+
 }
 
 .footer-list
 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 80%;
-    padding: 27%;
-}    
+    padding-right: 27%;
+}
+
 ul li{
     display: inline;
   }
