@@ -4,6 +4,15 @@ body
 	font-size: 80%;
 }
 
+.row
+{
+    height: 25%;
+}
+.col
+{
+    width: 15%;
+}
+
 header
 {
     margin-top: 5%;
@@ -13,7 +22,19 @@ header
 footer
 {
 	margin-top: 5%;
-	font-size: 80%;
+}
+
+.footer-logo
+{
+   position: center;
+   padding: 0%;
+   height: 30%;
+}
+
+.footer-list
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 80%;
 }
 
 h2, h3, h4, h5, h6
