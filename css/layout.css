@@ -35,6 +35,7 @@ footer
 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 80%;
+    padding: 27%;
 }    
 ul li{
     display: inline;
